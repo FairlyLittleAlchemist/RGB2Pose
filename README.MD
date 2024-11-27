@@ -1,6 +1,11 @@
 Instructions for Hand Pose Conversion Using Python and Blender 4.1
 Prerequisites
 
+
+![Target Pose](Images/Pose.jpg)
+![Target Mesh](Images/Mesh.jpg)
+
+
 To run this project, you'll need the following software:
 
     Python
