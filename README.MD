@@ -21,4 +21,4 @@ Steps to Run the Project
         Input your base and target poses within Blender.
 
     Note: This process only works for poses within the same class.
-[MINST HAND POSE DATASET Dont forget to unzip OwO](https://github.com/mon95/Sign-Language-and-Static-gesture-recognition-using-sklearn/tree/master)
+[MINST Hand pose dataset](https://github.com/mon95/Sign-Language-and-Static-gesture-recognition-using-sklearn/tree/master)
